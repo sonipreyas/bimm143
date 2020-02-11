@@ -9,7 +9,7 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Analysis of Human Breast Cancer Cells 
+### Analysis of Human Breast Cancer Cells 
 
 First we need to import our input the data, it was an online link 
 
